@@ -1,6 +1,8 @@
-python_requires>=3.11,<3.12
 tensorflow==2.15.0
-streamlit
 pandas
-numpy
+numpy 
 scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
