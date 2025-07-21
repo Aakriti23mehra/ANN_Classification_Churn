@@ -1,8 +1,6 @@
+python_requires>=3.11,<3.12
 tensorflow==2.15.0
 streamlit
 pandas
 numpy
 scikit-learn
-matplotlib
-seaborn
-plotly
